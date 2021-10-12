@@ -1,0 +1,7 @@
+What Licensing Agreement did you choose and why? I chose Creative Commons Zero because it makes this data public domain and allows it to be built upon and accessible, which follows the FAIR principles
+What are data archiving options are recommended by the Montana State University Library? Archive-It is the subscription that MSU has
+How would using GitHub help make your data/code align with FAIR Protocols? This repository is intended for people to browse existing data and code. Github is at the heart of making my work findable, accessible, interoperable, and replicable.
+What are the advantages of making your data/code more widely accessible? Other people can build on it to make it better and make the world a better place.
+What are the disadvantages of making your data/code more widely accessible? Someone could take your work and not cite you and/or circumventing giving proper credit where credit is due.
+What data/code from your grad project would you envision publishing on GitHub? It's hard as a historian to work in this space, but I did see datasets that dealt with a more humanities-ish project. So maybe one of those?
+What data/code would you not publish? Why? Anything that dealt with sensitive/censored materials. Also, anything that may be harmful to myself, others, etc.
